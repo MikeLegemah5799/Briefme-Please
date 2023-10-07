@@ -1,8 +1,3 @@
-# React + Vite
+# Brief Me Please 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Experience the future of efficient reading with our groundbreaking app powered by GPT-4, the latest in artificial intelligence technology. Say goodbye to information overload and lengthy articles; our app simplifies your reading process by summarizing complex content into concise, easy-to-understand paragraphs. Whether you're a student looking to grasp key concepts quickly or a professional trying to stay informed in a fast-paced world, our app provides you with comprehensive, coherent, and accurate summaries of articles across various topics. Embrace the future of knowledge consumption and make informed decisions faster than ever before with our GPT-4-powered article summarization app.
